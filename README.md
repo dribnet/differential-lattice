@@ -2,6 +2,19 @@
 
 A generative algorithm. work in progress.
 
+---
+
+### Warning
+
+This is an experimental fork that runs in an
+ipython notebook via [p55py](https://github.com/vusd/p55py). It requires `p55py`
+but does not require `render` or `python-cairo`.
+
+![screenshot](/img/screenshot.png?raw=true "screenshot")
+
+---
+
+![ani](/img/ani.gif?raw=true "ani")
 
 ![ani](/img/ani.gif?raw=true "ani")
 
